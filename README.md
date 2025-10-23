@@ -22,9 +22,6 @@ This HTML webpage was initially created for another project, and is now being de
 ## Usage
 Open the index.html file to view the webpage
 
-Screenshot of the webpage in action
-<img width="926" alt="static_page screenshot" src="https://i.postimg.cc/qqMBswL1/webpage-screenshot.png" />
-
 ## Contributing
 N/A
 
